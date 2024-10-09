@@ -1,11 +1,6 @@
-# PSA Tech Team & Small Filipino Business Database
+# PSA Tech Team
 
-
-> **Location and time subject to change**
-
-## Overview
-
-### PSA Tech Team
+### Tech Team Thursdays
 **Tech Team Thursdays** are recurring events where we come together to develop technology-driven projects that benefit **PSA** and its members. We will primarily focus on software development, mainly web development, but if you’re a tech enthusiast, an engineer, or just curious about the world of technology, we’d love to have you join us!
 
 Our goals include:
@@ -34,4 +29,4 @@ The project is built with a **React** front-end and a **MySQL** back-end, with p
 Whether you are a complete beginner or have experience in web development, the PSA Tech Team is open to everyone. We aim to create an inclusive and supportive environment where members can learn and grow together.
 
 ### Contributing to the Small Filipino Business Database
-Want to help build the database? We are looking for developers, designers, and anyone passionate about technology and community service. Join us in making a positive impact by supporting Filipino businesses!
+Want to help build the database? We are looking for developers, designers, and anyone passionate about technology. Join us in making a positive impact by supporting Filipino businesses!

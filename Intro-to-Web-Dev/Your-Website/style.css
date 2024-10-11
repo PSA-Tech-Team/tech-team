@@ -1,0 +1,39 @@
+h1 {
+    color: hwb(32 0% 0%);
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+    color: red;
+    font-size: medium;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+ul {
+    font-family: "Comic Sans MS";
+    text-align: left;
+}
+
+button {
+    font-family: "Comic Sans MS";
+    background-color: cornflowerblue;
+}
+
+button:hover {
+    background-color: red;
+}
+ 
+a {
+    font-family: "Comic Sans MS";
+}

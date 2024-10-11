@@ -1,0 +1,30 @@
+
+/* deep blue color scheme */
+body {
+    background-color: #040273;
+    color: #f0f0f0;
+    font: 16px/1.5 sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #f0f0f0;
+    background-color: #040273;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: #f0f0f0;
+    text-decoration: none;
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 78, 163);
+}
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10%;
+}
+.Chicago {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(42, 103, 187);
+}
+/* .button1:hover span {
+    opacity: 0;
+} */

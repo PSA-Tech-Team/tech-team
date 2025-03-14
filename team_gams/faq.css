@@ -1,0 +1,67 @@
+nav {
+    margin: 0;
+    height: 100 px;
+    background-color:#083c6c;
+    color: white;
+    text-align: right;
+    padding: 1.042 vw;
+    justify-content: space-between;
+}
+
+.psa_logo {
+    text-align: left;
+}
+
+.header {
+    margin: 0.8 vw;
+    padding: 0.8 vw;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+footer {
+    margin: auto;
+}
+
+.google_doc_button {
+    text-align: center;
+    font-size: 16px;
+}
+
+button {
+    background-color:#083c6c;
+    color: white;
+    height:50px;
+    width:500px;
+    font-size:30px;
+    
+}
+
+.site_footer {
+    text-align: center;
+    background-color: #083c6c;
+    color: white;
+}
+
+.img {
+    width: 3.5vw;
+    height: 3.5vw;
+}
+
+.become_member {
+    color: white;
+    font-family: sans-serif;
+}
